@@ -1,0 +1,327 @@
+# depslib dependency file v1.0
+1705258091 source:c:\programming\dsa theory\dsa final project\fp\date.cpp
+	"date.h"
+	<iostream>
+
+1705258075 c:\programming\dsa theory\dsa final project\fp\date.h
+	<string>
+
+1705734121 source:c:\programming\dsa theory\dsa final project\fp\main.cpp
+	<iostream>
+	"Student.h"
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+	"CourseList.h"
+	"StudentList.h"
+	"StudentQueue.h"
+	"Department.h"
+	"University.h"
+	<string>
+
+1705473697 source:c:\programming\dsa theory\dsa final project\fp\student.cpp
+	"Student.h"
+	"Person.h"
+	"date.h"
+	<iostream>
+	<string>
+	<vector>
+
+1705474207 c:\programming\dsa theory\dsa final project\fp\student.h
+	"date.h"
+	"Person.h"
+	<string>
+
+1705392615 c:\programming\dsa theory\dsa final project\fp\person.h
+	"date.h"
+
+1705314965 source:c:\programming\dsa theory\dsa final project\fp\person.cpp
+	"Person.h"
+	<iostream>
+	"date.h"
+
+1701783799 c:\programming\dsa theory\adts through ll\linkedlist.h
+	"Node.h"
+
+1701781143 c:\programming\dsa theory\adts through ll\node.h
+
+1701860308 c:\programming\dsa theory\adts through ll\list.h
+	"LinkedList.h"
+
+1705381360 source:c:\programming\dsa theory\dsa final project\fp\course.cpp
+	"Course.h"
+	"date.h"
+	<iostream>
+	<string>
+	<vector>
+	"Student.h"
+
+1705381378 c:\programming\dsa theory\dsa final project\fp\course.h
+	<vector>
+	"Student.h"
+	"Teacher.h"
+
+1705733881 source:c:\programming\dsa theory\dsa final project\fp\department.cpp
+	"Department.h"
+	<string>
+	<iostream>
+
+1705733841 c:\programming\dsa theory\dsa final project\fp\department.h
+	<string>
+	"courseList.h"
+	"Teacher.h"
+	"StudentQueue.h"
+
+1705459150 source:c:\programming\dsa theory\dsa final project\fp\node.cpp
+	"Node.h"
+
+1705459144 c:\programming\dsa theory\dsa final project\fp\node.h
+
+1705348882 source:c:\programming\dsa theory\dsa final project\fp\teacher.cpp
+	"Teacher.h"
+	"Person.h"
+	"date.h"
+	"Course.h"
+	<string>
+	<iostream>
+	<vector>
+
+1705393562 c:\programming\dsa theory\dsa final project\fp\teacher.h
+	"Person.h"
+	"date.h"
+	<vector>
+
+1704692446 source:c:\programming\dsa theory\dsa final project\fp\ta.cpp
+	"TA.h"
+
+1705475219 c:\programming\dsa theory\dsa final project\fp\ta.h
+	"Student.h"
+	"Teacher.h"
+	"CourseList.h"
+
+1705733355 source:c:\programming\dsa theory\dsa final project\fp\university.cpp
+	"University.h"
+	<iostream>
+	<string>
+	<vector>
+
+1705733086 c:\programming\dsa theory\dsa final project\fp\university.h
+	<string>
+	<vector>
+	"Department.h"
+	"StudentList.h"
+
+1705474554 source:c:\programming\dsa theory\dsa final project\fp\studentll.cpp
+	"StudentLL.h"
+	"Node.h"
+	<iostream>
+	<string>
+	"Node.cpp"
+
+1705474382 c:\programming\dsa theory\dsa final project\fp\studentll.h
+	"Node.h"
+	"Student.h"
+	<string>
+
+1705475248 source:c:\programming\dsa theory\dsa final project\fp\myarray.cpp
+	<iostream>
+	"Course.h"
+
+1705394290 c:\programming\dsa theory\dsa final project\fp\myarray.h
+	"Course.h"
+
+1705459150 c:\programming\dsa theory\dsa final project\fp\node.cpp
+	"Node.h"
+
+1705733392 source:c:\programming\dsa theory\dsa final project\fp\studentlist.cpp
+	"StudentList.h"
+	<iostream>
+	<string>
+
+1705470770 c:\programming\dsa theory\dsa final project\fp\studentlist.h
+	"StudentLL.h"
+	"Student.h"
+
+1705456800 source:c:\programming\dsa theory\dsa final project\fp\courselist.cpp
+	"courseList.h"
+	<iostream>
+	"Course.h"
+	<vector>
+
+1705456654 c:\programming\dsa theory\dsa final project\fp\courselist.h
+	"Course.h"
+
+1705318738 c:\programming\dsa theory\dsa final project\fp\studentqueue.h
+	"Student.h"
+	"StudentLL.h"
+
+1705319052 source:c:\programming\dsa theory\dsa final project\fp\studentqueue.cpp
+	"StudentQueue.h"
+	<iostream>
+	<string>
+
+1705298631 c:\programming\dsa theory\dsa final project\fp\course.cpp
+	"Course.h"
+	"date.h"
+	<iostream>
+	<string>
+	<vector>
+	"Student.h"
+
+1705336678 c:\programming\dsa theory\dsa final project\fp\courselist.cpp
+	"CourseList.h"
+	<iostream>
+	<string>
+
+1705341836 c:\programming\dsa theory\dsa final project\fp\student2.h
+	"date.h"
+	"Person.h"
+	<vector>
+
+1705342044 source:c:\programming\dsa theory\dsa final project\fp\student2.cpp
+	"Student2.h"
+	"Person.h"
+	"date.h"
+	<iostream>
+	<string>
+	"Course.h"
+	<vector>
+
+1705381360 source:d:\university\3rd semester\dsa theory\dsa final project\fp\course.cpp
+	"Course.h"
+	"date.h"
+	<iostream>
+	<string>
+	<vector>
+	"Student.h"
+
+1705381378 d:\university\3rd semester\dsa theory\dsa final project\fp\course.h
+	<vector>
+	"Student.h"
+	"Teacher.h"
+
+1705474207 d:\university\3rd semester\dsa theory\dsa final project\fp\student.h
+	"date.h"
+	"Person.h"
+	<string>
+
+1705258075 d:\university\3rd semester\dsa theory\dsa final project\fp\date.h
+	<string>
+
+1705392615 d:\university\3rd semester\dsa theory\dsa final project\fp\person.h
+	"date.h"
+
+1705393562 d:\university\3rd semester\dsa theory\dsa final project\fp\teacher.h
+	"Person.h"
+	"date.h"
+	<vector>
+
+1705456800 source:d:\university\3rd semester\dsa theory\dsa final project\fp\courselist.cpp
+	"courseList.h"
+	<iostream>
+	"Course.h"
+	<vector>
+
+1705456654 d:\university\3rd semester\dsa theory\dsa final project\fp\courselist.h
+	"Course.h"
+
+1705258091 source:d:\university\3rd semester\dsa theory\dsa final project\fp\date.cpp
+	"date.h"
+	<iostream>
+
+1705733881 source:d:\university\3rd semester\dsa theory\dsa final project\fp\department.cpp
+	"Department.h"
+	<string>
+	<iostream>
+
+1705733841 d:\university\3rd semester\dsa theory\dsa final project\fp\department.h
+	<string>
+	"courseList.h"
+	"Teacher.h"
+	"StudentQueue.h"
+
+1705318738 d:\university\3rd semester\dsa theory\dsa final project\fp\studentqueue.h
+	"Student.h"
+	"StudentLL.h"
+
+1705474382 d:\university\3rd semester\dsa theory\dsa final project\fp\studentll.h
+	"Node.h"
+	"Student.h"
+	<string>
+
+1705459144 d:\university\3rd semester\dsa theory\dsa final project\fp\node.h
+
+1705734121 source:d:\university\3rd semester\dsa theory\dsa final project\fp\main.cpp
+	<iostream>
+	"Student.h"
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+	"CourseList.h"
+	"StudentList.h"
+	"StudentQueue.h"
+	"Department.h"
+	"University.h"
+	<string>
+
+1705470770 d:\university\3rd semester\dsa theory\dsa final project\fp\studentlist.h
+	"StudentLL.h"
+	"Student.h"
+
+1705733086 d:\university\3rd semester\dsa theory\dsa final project\fp\university.h
+	<string>
+	<vector>
+	"Department.h"
+	"StudentList.h"
+
+1705459150 source:d:\university\3rd semester\dsa theory\dsa final project\fp\node.cpp
+	"Node.h"
+
+1705314965 source:d:\university\3rd semester\dsa theory\dsa final project\fp\person.cpp
+	"Person.h"
+	<iostream>
+	"date.h"
+
+1705473697 source:d:\university\3rd semester\dsa theory\dsa final project\fp\student.cpp
+	"Student.h"
+	"Person.h"
+	"date.h"
+	<iostream>
+	<string>
+	<vector>
+
+1705733392 source:d:\university\3rd semester\dsa theory\dsa final project\fp\studentlist.cpp
+	"StudentList.h"
+	<iostream>
+	<string>
+
+1705474554 source:d:\university\3rd semester\dsa theory\dsa final project\fp\studentll.cpp
+	"StudentLL.h"
+	"Node.h"
+	<iostream>
+	<string>
+	"Node.cpp"
+
+1705459150 d:\university\3rd semester\dsa theory\dsa final project\fp\node.cpp
+	"Node.h"
+
+1705319052 source:d:\university\3rd semester\dsa theory\dsa final project\fp\studentqueue.cpp
+	"StudentQueue.h"
+	<iostream>
+	<string>
+
+1705348882 source:d:\university\3rd semester\dsa theory\dsa final project\fp\teacher.cpp
+	"Teacher.h"
+	"Person.h"
+	"date.h"
+	"Course.h"
+	<string>
+	<iostream>
+	<vector>
+
+1705733355 source:d:\university\3rd semester\dsa theory\dsa final project\fp\university.cpp
+	"University.h"
+	<iostream>
+	<string>
+	<vector>
+
